@@ -1,0 +1,38 @@
+Name: Cadbury Nigeria Plc
+Username: cadb
+Password: password
+Date Founded: 1965
+Assets: 15000000
+Liabilities: 5500000
+Percentage Leverages: [0.1, 0.2, 0.3]
+Name: Dangote Sugar Refinery
+Username: dang
+Password: password
+Date Founded: 1970
+Assets: 18000000
+Liabilities: 10000000
+Percentage Leverages: [0.7, 0.8, 0.9]
+Name: Flour Mills Nigeria Plc
+Username: flour
+Password: password
+Date Founded: 1960
+Assets: 32000000
+Liabilities: 4000000
+Percentage Leverages: [0.1, 0.11, 0.12]
+Multiple 1: 0.005000000000000001
+Multiple 2: 0.0055000000000000005
+Multiple 3: 0.006
+Name: Nestle Nigeria Plc
+Username: nestle
+Password: password
+Date Founded: 1961
+Assets: 8000000
+Liabilities: 1500000
+Percentage Leverages: [0.13, 0.14, 0.15]
+Name: Nigeria Breweries Plc
+Username: brewery
+Password: password
+Date Founded: 1946
+Assets: 30000000
+Liabilities: 12000000
+Percentage Leverages: [0.22, 0.23, 0.24]

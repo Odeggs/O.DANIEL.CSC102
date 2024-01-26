@@ -1,0 +1,1 @@
+C:\Users\HP\OneDrive\ -\ Pan-Atlantic\ University\Documents\O.DANIEL.CSC102\Week_6\practice_5\target\debug\practice_5.exe: C:\Users\HP\OneDrive\ -\ Pan-Atlantic\ University\Documents\O.DANIEL.CSC102\Week_6\practice_5\src\main.rs
